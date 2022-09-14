@@ -8,3 +8,11 @@ This notebook used a "CSL-JSON" feed from DiVA to get some data about theses tha
 # Purpose
 This notebook used a "CSV all metadata version 2" feed from DiVA to get some data about theses that were erxamined by Gerald Q. Maguire Jr.
 This feed contains more data that the CSL-JSON feed. In particulare it include the dates of the oral presentations.
+
+## Notebook 2 -Chip.ipynb
+# Purpose
+# Purpose
+This notebook used a "CSV all metadata version 2" feed from DiVA to get some data about theses that were erxamined by Gerald Q. Maguire Jr.
+This feed contains more data that the CSL-JSON feed. In particulare it include the dates of the oral presentations.
+This version is a bit more pollished than "Notebook 2 -CVS".
+
