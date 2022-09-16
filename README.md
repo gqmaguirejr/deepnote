@@ -19,3 +19,7 @@ This version is a bit more pollished than "Notebook 2 -CVS".
 This notebook used a "CSV all metadata version 2" feed from DiVA to get some data about theses that were erxamined by someone in EECS (or its earlier organizations)
 This feed contains more data that the CSL-JSON feed. In particulare it include the dates of the oral presentations.
 
+## Notebook 4-Chip-with-MODS feed.ipynb
+This notebook uses a MODS feed from DiVA to get some data about theses that were erxamined by Gerald Q. Maguire Jr.
+This feed is labguage tagged, so the keywrods are handled better.
+
